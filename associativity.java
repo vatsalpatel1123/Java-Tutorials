@@ -21,7 +21,7 @@ public class associativity {
         System.out.println(c);
         System.out.printf("Hey! %d",i);
 
-        
+
 
     }
 }
