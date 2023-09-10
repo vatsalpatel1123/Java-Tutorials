@@ -8,7 +8,7 @@ public class tax_calculator {
 
 
         Scanner sc = new Scanner(System.in);
-        System.out.println("Enter your income in Lakhs per annum");
+        System.out.println("Enter your income in Lakhs per year");
         float tax = 0;
         float income = sc.nextFloat();
         if(income<=2.5){
