@@ -9,7 +9,7 @@ public class sumEvenNumbers {
         }
         System.out.print("Sum of even numbers is: ");
         System.out.println(sum);
-           
+
         }
     }
 
