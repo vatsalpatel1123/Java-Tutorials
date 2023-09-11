@@ -11,7 +11,7 @@ public class StringProgram {
             text = text.replace(" ", "_");
             System.out.println(text);
 
-         
+
             String letter = "Dear <|name|>, Thanks a lot!";
             letter = letter.replace("<|name|>", "Sachin");
             System.out.println(letter);
@@ -28,4 +28,4 @@ public class StringProgram {
         }
     }
 
-}
+
