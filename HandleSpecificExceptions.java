@@ -4,22 +4,21 @@ public class HandleSpecificExceptions {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the number one");
-        int ind = sc.nextInt();
+        int num1 = sc.nextInt();
 
         System.out.println("Enter the number two");
-        int number = sc.nextInt();
+        int num2 = sc.nextInt();
         try{
-            System.out.println("The value at array index entered is: " + marks[ind]);
-            System.out.println("The value of array-value/number is: " + marks[ind]/number);
+            System.out.println("The value of num1/num2 is: " + num1/num2);
         }
         catch (ArithmeticException e){
             System.out.println("ArithmeticException occured!");
             System.out.println(e);
         }
-        catch (ArrayIndexOutOfBoundsException e){
-            System.out.println("ArrayIndexOutOfBoundsException occured!");
-            System.out.println(e);
-        }
+//        catch (ArrayIndexOutOfBoundsException e){
+//            System.out.println("ArrayIndexOutOfBoundsException occured!");
+//            System.out.println(e);
+//        }
         catch (Exception e){
             System.out.println("Some other exception occured!");
             System.out.println(e);
