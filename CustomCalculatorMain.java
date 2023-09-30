@@ -88,7 +88,7 @@ public class CustomCalculatorMain {
 //        c.divide(6, 0);
 //        c.divide(600000000, 40);
         c.multiply(5, 600);
-         
+
     }
 }
 
