@@ -11,5 +11,5 @@
 |Calculate Factorial Number|https://github.com/vatsalpatel1123/Java-Tutorials/commit/32ab2da3c82c7d5d3dbb4ca1534af1fb48337fd1|
 |Calendar Add Method|https://github.com/vatsalpatel1123/Java-Tutorials/commit/6d9794026fb85282e280008c8fc0a30653309943|
 |Calendar class in Java|https://github.com/vatsalpatel1123/Java-Tutorials/commit/7f0c9270616280430d22f0c7430e7ac72ec7b66b|
-|||
-|||
+|Calendar Count Weeks Method|https://github.com/vatsalpatel1123/Java-Tutorials/commit/d8d50cd49aa35bbbb0699fe8f4cc94212da0d81a|
+|Changing An Element Of Linked List|https://github.com/vatsalpatel1123/Java-Tutorials/commit/c0aad0a1dc672c9d5991bc7a1d19451a2eb7c208|
