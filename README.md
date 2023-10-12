@@ -16,5 +16,10 @@
 |Constructors in Java|https://github.com/vatsalpatel1123/Java-Tutorials/commit/1356a703fadbde8052dde9a7ea52e1c5a5231e95|
 |Constructors Over Loading in Java|https://github.com/vatsalpatel1123/Java-Tutorials/commit/e5cc7491dd6764b3cb519eda9da3bc2af4807861|
 |Constructors of the date in Java|https://github.com/vatsalpatel1123/Java-Tutorials/commit/c10dc47e315aad38b35967e0f1a20790b101d8bd|
+|COnstructors in Inheritance OOPs|https://github.com/vatsalpatel1123/Java-Tutorials/commit/9e69062fc5b46d9018f2eccdd1d84829ef829485|
+|Constructors from Thread class|https://github.com/vatsalpatel1123/Java-Tutorials/commit/8f981c7c3b53a616540e0be23eb5c28e28cda589|
+|||
+|||
+|||
 |||
 
